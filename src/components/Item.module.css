@@ -1,0 +1,17 @@
+.product_wrap {
+  display: flex;
+  height: 230px;
+  align-items: center;
+}
+
+.product_name {
+  display: block;
+  margin: 10px;
+}
+.product_price {
+  display: block;
+  font-size: 20px;
+  margin: 10px;
+}
+.btn {
+}
