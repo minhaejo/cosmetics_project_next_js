@@ -16,7 +16,14 @@ const Top = () => {
             </div>
             <header
               as="h1"
-              style={{ fontSize: "22px", lineHeight: "72px", marginLeft: 10 }}
+              style={{
+                fontSize: "22px",
+                lineHeight: "72px",
+                marginLeft: 10,
+                textDecoration: "none",
+                color: "black",
+                fontWeight: "bold",
+              }}
             >
               코딩민해
             </header>

@@ -6,12 +6,16 @@
 
 .product_name {
   display: block;
-  margin: 10px;
+  padding-bottom: 2px;
 }
 .product_price {
   display: block;
   font-size: 20px;
-  margin: 10px;
+  padding-bottom: 6px;
 }
 .btn {
+}
+
+.product_info {
+  margin-left: 20px;
 }

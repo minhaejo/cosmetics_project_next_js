@@ -30,9 +30,13 @@ const Item = ({ item }) => {
       </div>
       <Divider />
       <div>
-        <strong>Description</strong>
+        <strong
+          style={{ display: "block", marginTop: "30px", fontSize: "17px" }}
+        >
+          Description
+        </strong>
 
-        <p>{description}</p>
+        <p style={{ paddingTop: "20px" }}>{description}</p>
       </div>
     </div>
   );
